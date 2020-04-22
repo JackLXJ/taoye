@@ -6,3 +6,6 @@
 add a line
 uodate file a line
 delete file a line
+
+today is a good day
+yes it is
